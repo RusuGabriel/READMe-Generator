@@ -1,15 +1,15 @@
 <p align="center">
- <img width=200px height=200px src="${Enter the url for the project logo}" alt="Project logo"></a>
+<img width=200px height=200px src="logo">
 </p>
 
-<h3 align="center">${Enter the project title}</h3>
+<h3 align="center">posdlkg/
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <p align="center"> Few lines describing your project.
 
-    <br> 
+<br>
 
 </p>
 
@@ -45,7 +45,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them.
 
-``` 
+```
 Give examples
 ```
 
@@ -55,13 +55,13 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-``` 
+```
 Give the example
 ```
 
 And repeat
 
-``` 
+```
 until finished
 ```
 
@@ -75,7 +75,7 @@ Explain how to run the automated tests for this system.
 
 Explain what these tests test and why
 
-``` 
+```
 Give an example
 ```
 
@@ -83,7 +83,7 @@ Give an example
 
 Explain what these tests test and why
 
-``` 
+```
 Give an example
 ```
 
