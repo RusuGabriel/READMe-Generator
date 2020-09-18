@@ -1,5 +1,5 @@
 import os
-from .structures import Token
+from structures import Token
 
 root = 'src'
 resources = 'resources'
@@ -32,7 +32,7 @@ def replace(token: Token,  word:str ,line: str):
     return line[:token.start -2] + word + line[token.end+1:]
 
 
-# test_line = "something ${Few lines describing your project.} other thing ${cerva}"
-# tokens = parse_into_tokens(test_line)
-# for token in tokens:
-#     print(replace(token, "now", test_line))
+
+
+
+
