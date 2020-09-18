@@ -1,5 +1,4 @@
-from src.utils import 
+#! /usr/bin/python3
+from src.utils import *
 
-
-
-my_print('caca')
+print(parse('standard.txt'))
