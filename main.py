@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 from src import *
 from src.utils import *
+import os
 
 
 lines = parse('standard.md')
@@ -11,6 +12,6 @@ for line in lines:
     for token in tokens:
         response = input(token.question+": ")
         line = replace(token, response, line)
-    result_lines.append(line +"\r")
+    result_lines.append(line + os.linesep)
 
 file.writelines(result_lines)
