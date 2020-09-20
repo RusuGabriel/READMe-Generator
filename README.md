@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://raw.githubusercontent.com/RusuGabriel/READMe-Generator/master/src/resources/coding.png?token=AIRXTRJ36BJRKJGRV35SMLK7OC3FM" alt="Project logo"></a>
+ <img width=200px height=200px src="https://raw.githubusercontent.com/RusuGabriel/READMe-Generator/master/src/resources/coding.png?token=AIRXTRJ36BJRKJGRV35SMLK7OC3FM" alt="Project logo">
 </p>
 
 <h3 align="center">READMe Generator</h3>
@@ -18,6 +17,7 @@
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
