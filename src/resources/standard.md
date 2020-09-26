@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">${Enter the project title}</h3>
-<p align="center"> ${Few lines describing your project}</p>
+<p align="center"> ${Few lines describing your project*}</p>
 
 ## 📝 Table of Contents
 
