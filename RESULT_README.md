@@ -1,10 +1,11 @@
 <p align="center">
-<img width=200px height=200px src="${Enter the url for the project logo}" alt="Project logo">
+<img width=200px height=200px src="logo.com" alt="Project logo">
 </p>
 
-<h3 align="center">${Enter the project title}</h3>
-<p align="center"> This is one of my coolest 
-Projects on Python }</p>
+<h3 align="center">Project</h3>
+<p align="center"> THis is the best project
+of the Python suite
+</p>
 
 ## 📝 Table of Contents
 

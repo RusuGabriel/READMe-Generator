@@ -22,7 +22,7 @@ def parse_into_tokens(line: str, start_index: int = 0):
     end = line.index("}")
     multiline = False
     if "*" in line:
-        end = line.index("*")
+        end = line.index("*") - 1
         multiline = True
     question = line[start+2:end]
     collected_tokens = [

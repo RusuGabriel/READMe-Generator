@@ -14,7 +14,7 @@ for line in lines:
         if token.multiline:
             while 'stop' not in response:
                 response = response + '\n' + input()
-            line = replace(token, prepare(response), line)
+        line = replace(token, prepare(response), line)
     result_lines.append(line + '\n')
 
 file.writelines(result_lines)
