@@ -22,7 +22,7 @@ def parse_into_tokens(line: str, start_index: int = 0):
     end = line.index("}")
     multiline = False
     if "*" in line:
-        end = line.index("*") - 1
+        end = line.index("*")
         multiline = True
     question = line[start+2:end]
     collected_tokens = [
@@ -32,9 +32,11 @@ def parse_into_tokens(line: str, start_index: int = 0):
 
 
 def replace(token: Token,  word: str, line: str):
-    return line[:token.start - 2] + word + line[token.end+1:]
+    if not token.multiline:
+        return line[:token.start - 2] + word + line[token.end+1:]
+    return line[:token.start - 2] + word + line[token.end+2:]
 
-def getQuestionFrom(token: Token):
+def get_question_from(token: Token):
     question = token.question
     if token.multiline:
         question += "(type 'stop' when you finish): "
@@ -42,3 +44,9 @@ def getQuestionFrom(token: Token):
         question += ": "
 
     return question
+
+def prepare(response: str):
+    if 'stop' not in response:
+        return response
+    end = response.find('stop')
+    return response[:end]
