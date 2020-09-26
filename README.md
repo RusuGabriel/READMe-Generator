@@ -4,7 +4,7 @@
 
 <h3 align="center">READMe Generator</h3>
 
-<p align="center"> Few lines describing your project.
+<p align="center"> The purpose of this project is to automate the process of writing a README.md and use a consistent template across multiple projects without unneeded overhead
     <br> 
 </p>
 
