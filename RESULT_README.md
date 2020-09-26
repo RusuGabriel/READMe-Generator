@@ -1,46 +1,10 @@
 <p align="center">
-
-<img width=200px height=200px src="https://i.pinimg.com/originals/33/b8/69/33b869f90619e81763dbf1fccc896d8d.jpg" alt="Project logo"></a>
-
+<img width=200px height=200px src="logo.com" alt="Project logo">
 </p>
 
 
-
-<h3 align="center">Pto title</h3>
-
-
-
-<div align="center">
-
-
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-
-
-</div>
-
-
-
----
-
-
-
-<p align="center"> Few lines describing your project.
-
-
-
-<br>
-
-
-
-</p>
+<h3 align="center">Best Project Ever</h3>
+<p align="center"> This is </p>
 
 
 
