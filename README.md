@@ -1,5 +1,5 @@
 <p align="center">
- <img width=200px height=200px src="https://raw.githubusercontent.com/RusuGabriel/READMe-Generator/master/src/resources/coding.png?token=AIRXTRJ36BJRKJGRV35SMLK7OC3FM" alt="Project logo">
+ <img width=200px height=200px src="https://github.com/RusuGabriel/READMe-Generator/blob/master/src/resources/coding.png" alt="Project logo">
 </p>
 
 <h3 align="center">READMe Generator</h3>
